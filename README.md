@@ -1,20 +1,23 @@
 Andrei Popa-Simil
-Jermemy Middleman
+Jeremy Middleman
 
 # Parallelized Sorting Algorithms 
 
 ## Jeremy's Algorithms
-1. Quicksort
-2. Heapsort
+  Naive Parallel Quicksort
+  Optimized Parallel Quicksort
 
 
 ## Andrei's Algorithms
-3. Insertionsort/Shellsort
-4. Mergesort
+  Naive Parallel Mergesort
+  Serial Matrix Mergesort 
+
+## Geeks For Geeks Algorithms
+    Serial Quicksort
+    Serial Mergesort
 
 
 # Methods to Analyze Algorithms
-
 ## Data Size
  - 2^0 -> 2^20
 
@@ -28,5 +31,11 @@ Jermemy Middleman
 
 ## Bottlenecks? (optional)
  - Serialized vs Parallelized Portions
+
+# Running the Script
+To run any one of the scripts on a machine with slurm call "sbatch <filename.sh>"
+To see the status of the runscript on the system call "squeue -u <username> -i <update iteration in seconds>
+
+Adjust the output directorys in the .sh files in the lines that call .err and .out
 
 
