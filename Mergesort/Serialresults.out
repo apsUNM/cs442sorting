@@ -1,0 +1,29 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% NODE(S) / TASK(S) %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Node list: xena-test
+Number of tasks: 1
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% testSerial %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Number of processors:1
+
+Power: 0, Valid: 1000, Max Time: 0.000006, Min Time: 0.000000, Avg Time: 0.000000
+Power: 1, Valid: 1000, Max Time: 0.000000, Min Time: 0.000000, Avg Time: 0.000000
+Power: 2, Valid: 1000, Max Time: 0.000000, Min Time: 0.000000, Avg Time: 0.000000
+Power: 3, Valid: 1000, Max Time: 0.000001, Min Time: 0.000000, Avg Time: 0.000000
+Power: 4, Valid: 1000, Max Time: 0.000003, Min Time: 0.000001, Avg Time: 0.000001
+Power: 5, Valid: 1000, Max Time: 0.000003, Min Time: 0.000002, Avg Time: 0.000002
+Power: 6, Valid: 1000, Max Time: 0.000007, Min Time: 0.000004, Avg Time: 0.000004
+Power: 7, Valid: 1000, Max Time: 0.000013, Min Time: 0.000008, Avg Time: 0.000008
+Power: 8, Valid: 1000, Max Time: 0.000028, Min Time: 0.000017, Avg Time: 0.000017
+Power: 9, Valid: 1000, Max Time: 0.000061, Min Time: 0.000037, Avg Time: 0.000037
+Power: 10, Valid: 1000, Max Time: 0.000132, Min Time: 0.000079, Avg Time: 0.000079
+Power: 11, Valid: 1000, Max Time: 0.000281, Min Time: 0.000168, Avg Time: 0.000169
+Power: 12, Valid: 1000, Max Time: 0.000630, Min Time: 0.000357, Avg Time: 0.000359
+Power: 13, Valid: 1000, Max Time: 0.001293, Min Time: 0.000758, Avg Time: 0.000760
+Power: 14, Valid: 1000, Max Time: 0.002750, Min Time: 0.001604, Avg Time: 0.001607
+Power: 15, Valid: 1000, Max Time: 0.005828, Min Time: 0.003381, Avg Time: 0.003386
+Power: 16, Valid: 1000, Max Time: 0.012279, Min Time: 0.007103, Avg Time: 0.007112
+Power: 17, Valid: 1000, Max Time: 0.025883, Min Time: 0.014886, Avg Time: 0.014903
+Power: 18, Valid: 1000, Max Time: 0.054617, Min Time: 0.031139, Avg Time: 0.031261
+Power: 19, Valid: 1000, Max Time: 0.125399, Min Time: 0.064997, Avg Time: 0.065245
+Power: 20, Valid: 1000, Max Time: 0.239291, Min Time: 0.135451, Avg Time: 0.135592
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DONE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

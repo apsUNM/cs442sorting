@@ -1,0 +1,23 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% NODE(S) / TASK(S) %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Node list: xena-bigmem01
+Number of tasks: 1
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% testMatrixSerial %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Number of processors:1
+
+Power: 0, Valid: 20, Max Time: 0.000010, Min Time: 0.000000, Avg Time: 0.000001
+Power: 1, Valid: 20, Max Time: 0.000022, Min Time: 0.000001, Avg Time: 0.000002
+Power: 2, Valid: 20, Max Time: 0.000004, Min Time: 0.000001, Avg Time: 0.000002
+Power: 3, Valid: 20, Max Time: 0.000012, Min Time: 0.000004, Avg Time: 0.000005
+Power: 4, Valid: 20, Max Time: 0.000022, Min Time: 0.000009, Avg Time: 0.000011
+Power: 5, Valid: 20, Max Time: 0.000051, Min Time: 0.000025, Avg Time: 0.000032
+Power: 6, Valid: 20, Max Time: 0.000121, Min Time: 0.000078, Avg Time: 0.000087
+Power: 7, Valid: 20, Max Time: 0.000322, Min Time: 0.000251, Avg Time: 0.000263
+Power: 8, Valid: 20, Max Time: 0.001047, Min Time: 0.000847, Avg Time: 0.000868
+Power: 9, Valid: 20, Max Time: 0.003569, Min Time: 0.003036, Avg Time: 0.003076
+Power: 10, Valid: 20, Max Time: 0.012927, Min Time: 0.010482, Avg Time: 0.011089
+Power: 11, Valid: 20, Max Time: 0.045611, Min Time: 0.028191, Avg Time: 0.034766
+Power: 12, Valid: 20, Max Time: 0.124045, Min Time: 0.103383, Avg Time: 0.105746
+Power: 13, Valid: 20, Max Time: 0.462967, Min Time: 0.409662, Avg Time: 0.413632
+Power: 14, Valid: 20, Max Time: 1.845386, Min Time: 1.628950, Avg Time: 1.645520
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DONE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

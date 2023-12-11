@@ -1,0 +1,32 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% NODE(S) / TASK(S) %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Node list: xena-test
+Number of tasks: 1
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% testParallel %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Power: 0, Valid: 10, Max Time: 0.000028, Min Time: 0.000000, Avg Time: 0.000003
+Power: 1, Valid: 10, Max Time: 0.000002, Min Time: 0.000000, Avg Time: 0.000000
+Power: 2, Valid: 10, Max Time: 0.000002, Min Time: 0.000000, Avg Time: 0.000001
+Power: 3, Valid: 10, Max Time: 0.000002, Min Time: 0.000001, Avg Time: 0.000001
+Power: 4, Valid: 10, Max Time: 0.000002, Min Time: 0.000001, Avg Time: 0.000001
+Power: 5, Valid: 10, Max Time: 0.000008, Min Time: 0.000002, Avg Time: 0.000003
+Power: 6, Valid: 10, Max Time: 0.000007, Min Time: 0.000004, Avg Time: 0.000004
+Power: 7, Valid: 10, Max Time: 0.000014, Min Time: 0.000008, Avg Time: 0.000009
+Power: 8, Valid: 10, Max Time: 0.000029, Min Time: 0.000017, Avg Time: 0.000019
+Power: 9, Valid: 10, Max Time: 0.000063, Min Time: 0.000037, Avg Time: 0.000043
+Power: 10, Valid: 10, Max Time: 0.000133, Min Time: 0.000079, Avg Time: 0.000085
+Power: 11, Valid: 10, Max Time: 0.000285, Min Time: 0.000169, Avg Time: 0.000184
+Power: 12, Valid: 10, Max Time: 0.000610, Min Time: 0.000361, Avg Time: 0.000390
+Power: 13, Valid: 10, Max Time: 0.001309, Min Time: 0.000763, Avg Time: 0.000820
+Power: 14, Valid: 10, Max Time: 0.002771, Min Time: 0.001611, Avg Time: 0.001729
+Power: 15, Valid: 10, Max Time: 0.005897, Min Time: 0.003393, Avg Time: 0.003648
+Power: 16, Valid: 10, Max Time: 0.012364, Min Time: 0.007136, Avg Time: 0.007663
+Power: 17, Valid: 10, Max Time: 0.026284, Min Time: 0.014963, Avg Time: 0.016113
+Power: 18, Valid: 10, Max Time: 0.055226, Min Time: 0.031294, Avg Time: 0.033732
+Power: 19, Valid: 10, Max Time: 0.115889, Min Time: 0.065380, Avg Time: 0.071039
+Power: 20, Valid: 10, Max Time: 0.242013, Min Time: 0.136387, Avg Time: 0.147234
+Power: 21, Valid: 10, Max Time: 0.506850, Min Time: 0.284462, Avg Time: 0.307163
+Power: 22, Valid: 10, Max Time: 1.056979, Min Time: 0.592760, Avg Time: 0.640555
+Power: 23, Valid: 10, Max Time: 2.194707, Min Time: 1.237388, Avg Time: 1.334087
+Power: 24, Valid: 10, Max Time: 4.558099, Min Time: 2.562612, Avg Time: 2.763471
+Power: 25, Valid: 10, Max Time: 9.467628, Min Time: 5.312208, Avg Time: 5.734531
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DONE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

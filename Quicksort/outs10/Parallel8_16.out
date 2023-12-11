@@ -1,0 +1,72 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% NODE(S) / TASK(S) %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Node list: xena[21-22]
+Number of tasks: 32
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% testParallel %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Parallel 8  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Power: 0, Valid: 10, Max Time: 0.000003, Min Time: 0.000000, Avg Time: 0.000000
+Power: 1, Valid: 10, Max Time: 0.000000, Min Time: 0.000000, Avg Time: 0.000000
+Power: 2, Valid: 10, Max Time: 0.000000, Min Time: 0.000000, Avg Time: 0.000000
+Power: 3, Valid: 10, Max Time: 0.000001, Min Time: 0.000001, Avg Time: 0.000001
+Power: 4, Valid: 8, Max Time: 0.000016, Min Time: 0.000005, Avg Time: 0.000008
+Power: 5, Valid: 7, Max Time: 0.000008, Min Time: 0.000006, Avg Time: 0.000007
+Power: 6, Valid: 7, Max Time: 0.000023, Min Time: 0.000008, Avg Time: 0.000012
+Power: 7, Valid: 6, Max Time: 0.000019, Min Time: 0.000011, Avg Time: 0.000014
+Power: 8, Valid: 7, Max Time: 0.000025, Min Time: 0.000020, Avg Time: 0.000022
+Power: 9, Valid: 7, Max Time: 0.000048, Min Time: 0.000047, Avg Time: 0.000048
+Power: 10, Valid: 7, Max Time: 0.000144, Min Time: 0.000139, Avg Time: 0.000141
+Power: 11, Valid: 7, Max Time: 0.000486, Min Time: 0.000477, Avg Time: 0.000481
+Power: 12, Valid: 7, Max Time: 0.001763, Min Time: 0.001753, Avg Time: 0.001758
+Power: 13, Valid: 7, Max Time: 0.006562, Min Time: 0.006517, Avg Time: 0.006537
+Power: 14, Valid: 7, Max Time: 0.024744, Min Time: 0.023928, Avg Time: 0.024247
+Power: 15, Valid: 7, Max Time: 0.095208, Min Time: 0.094583, Avg Time: 0.094730
+Power: 16, Valid: 7, Max Time: 0.378282, Min Time: 0.377278, Avg Time: 0.377650
+Power: 17, Valid: 7, Max Time: 1.506836, Min Time: 1.505719, Avg Time: 1.506226
+Power: 18, Valid: 7, Max Time: 6.031373, Min Time: 6.010058, Avg Time: 6.020847
+Power: 19, Valid: 7, Max Time: 24.056971, Min Time: 23.967579, Avg Time: 24.019347
+Power: 20, Valid: 7, Max Time: 95.983744, Min Time: 95.800253, Avg Time: 95.877610
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Parallel 16  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Power: 0, Valid: 10, Max Time: 0.000003, Min Time: 0.000000, Avg Time: 0.000000
+Power: 1, Valid: 10, Max Time: 0.000000, Min Time: 0.000000, Avg Time: 0.000000
+Power: 2, Valid: 10, Max Time: 0.000000, Min Time: 0.000000, Avg Time: 0.000000
+Power: 3, Valid: 10, Max Time: 0.000001, Min Time: 0.000001, Avg Time: 0.000001
+Power: 4, Valid: 10, Max Time: 0.000002, Min Time: 0.000001, Avg Time: 0.000002
+Power: 5, Valid: 4, Max Time: 0.000016, Min Time: 0.000009, Avg Time: 0.000011
+Power: 6, Valid: 4, Max Time: 0.000055, Min Time: 0.000010, Avg Time: 0.000023
+Power: 7, Valid: 4, Max Time: 0.000018, Min Time: 0.000012, Avg Time: 0.000014
+Power: 8, Valid: 3, Max Time: 0.000021, Min Time: 0.000019, Avg Time: 0.000020
+Power: 9, Valid: 3, Max Time: 0.000050, Min Time: 0.000039, Avg Time: 0.000046
+Power: 10, Valid: 2, Max Time: 0.000085, Min Time: 0.000078, Avg Time: 0.000082
+Power: 11, Valid: 3, Max Time: 0.000205, Min Time: 0.000199, Avg Time: 0.000203
+Power: 12, Valid: 3, Max Time: 0.000604, Min Time: 0.000594, Avg Time: 0.000598
+Power: 13, Valid: 3, Max Time: 0.001991, Min Time: 0.001979, Avg Time: 0.001985
+Power: 14, Valid: 2, Max Time: 0.007182, Min Time: 0.007176, Avg Time: 0.007179
+Power: 15, Valid: 3, Max Time: 0.027229, Min Time: 0.027221, Avg Time: 0.027225
+Power: 16, Valid: 3, Max Time: 0.106191, Min Time: 0.106081, Avg Time: 0.106138
+Power: 17, Valid: 3, Max Time: 0.418605, Min Time: 0.418311, Avg Time: 0.418455
+Power: 18, Valid: 3, Max Time: 1.663097, Min Time: 1.662421, Avg Time: 1.662708
+Power: 19, Valid: 3, Max Time: 6.632536, Min Time: 6.627628, Avg Time: 6.630291
+Power: 20, Valid: 3, Max Time: 26.544204, Min Time: 26.451453, Avg Time: 26.482383
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Parallel 32  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Power: 0, Valid: 10, Max Time: 0.000003, Min Time: 0.000000, Avg Time: 0.000000
+Power: 1, Valid: 10, Max Time: 0.000000, Min Time: 0.000000, Avg Time: 0.000000
+Power: 2, Valid: 10, Max Time: 0.000000, Min Time: 0.000000, Avg Time: 0.000000
+Power: 3, Valid: 10, Max Time: 0.000001, Min Time: 0.000001, Avg Time: 0.000001
+Power: 4, Valid: 10, Max Time: 0.000002, Min Time: 0.000001, Avg Time: 0.000002
+Power: 5, Valid: 10, Max Time: 0.000012, Min Time: 0.000003, Avg Time: 0.000007
+Power: 6, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 7, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 8, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 9, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 10, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 11, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 12, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 13, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 14, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 15, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 16, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 17, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 18, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 19, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+Power: 20, Valid: 0, Max Time: 0.000000, Min Time: -1.000000, Avg Time: 0.000000
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DONE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

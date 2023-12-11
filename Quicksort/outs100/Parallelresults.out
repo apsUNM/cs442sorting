@@ -1,0 +1,21 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% NODE(S) / TASK(S) %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Node list: xena[11-14]
+Number of tasks: 64
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% testParallel %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Power: 0, Valid: 100, Max Time: 0.000003, Min Time: 0.000000, Avg Time: 0.000000
+Power: 1, Valid: 100, Max Time: 0.000036, Min Time: 0.000000, Avg Time: 0.000001
+Power: 2, Valid: 100, Max Time: 0.000001, Min Time: 0.000000, Avg Time: 0.000000
+Power: 3, Valid: 100, Max Time: 0.000001, Min Time: 0.000001, Avg Time: 0.000001
+Power: 4, Valid: 100, Max Time: 0.000002, Min Time: 0.000001, Avg Time: 0.000002
+Power: 5, Valid: 100, Max Time: 0.000006, Min Time: 0.000003, Avg Time: 0.000006
+Power: 6, Valid: 100, Max Time: 0.000042, Min Time: 0.000009, Avg Time: 0.000023
+Power: 7, Valid: 100, Max Time: 0.000089, Min Time: 0.000013, Avg Time: 0.000087
+Power: 8, Valid: 100, Max Time: 0.000342, Min Time: 0.000027, Avg Time: 0.000337
+Power: 9, Valid: 100, Max Time: 0.001349, Min Time: 0.000065, Avg Time: 0.001330
+Power: 10, Valid: 100, Max Time: 0.005347, Min Time: 0.000147, Avg Time: 0.005283
+Power: 11, Valid: 100, Max Time: 0.021578, Min Time: 0.000319, Avg Time: 0.021072
+Power: 12, Valid: 100, Max Time: 0.085192, Min Time: 0.000696, Avg Time: 0.084087
+Power: 13, Valid: 100, Max Time: 0.340044, Min Time: 0.001490, Avg Time: 0.336128
+Power: 14, Valid: 100, Max Time: 1.398091, Min Time: 0.003078, Avg Time: 1.346377
+Power: 15, Valid: 100, Max Time: 5.438050, Min Time: 0.006483, Avg Time: 5.382301

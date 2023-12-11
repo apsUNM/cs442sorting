@@ -10,7 +10,7 @@ Jermemy Middleman
 
 ## Andrei's Algorithms
 3. Insertionsort/Shellsort
-4. InfiniGPUsort
+4. Mergesort
 
 
 # Methods to Analyze Algorithms
